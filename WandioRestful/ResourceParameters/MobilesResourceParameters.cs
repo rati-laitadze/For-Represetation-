@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace WandioRestful.ResourceParameters
 {
+    //for search
     public class MobilesResourceParameters
     {
         public int ManufacturerId { get; set; }

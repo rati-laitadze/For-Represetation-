@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pM0xXd8iyOEJVbgrIs0UXLcigCefDtFL0yM5ruliKEvnbAGENr2QBymJIEwS966kvH2p4EkuRaK+UBBadUxN1g==",
+  "dgSpecHash": "ubaZ/G+sbu78w+TLPCzsqqoLRPZwu/wl8pRbrOag06GexedLvrEMXfP8kvpo3tpGGcAR057wVBA248MSthbY5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\WandioRestful.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\WandioRestful.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

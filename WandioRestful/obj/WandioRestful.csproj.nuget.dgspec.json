@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\WandioRestful.csproj": {}
+    "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\WandioRestful.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\WandioRestful.csproj": {
+    "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\WandioRestful.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\WandioRestful.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\WandioRestful.csproj",
         "projectName": "WandioRestful",
-        "projectPath": "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\WandioRestful.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\WandioRestful.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\New folder\\WandioRestful\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\For-Represetation-\\WandioRestful\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
